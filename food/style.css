@@ -1,0 +1,218 @@
+.full {
+    background-color: rgb(48, 165, 101);
+}
+
+.navbar {
+    background-color: rgb(48, 165, 101) !important;
+    padding: 0 !important;
+    font-weight: 16px !important;
+    font-weight: 700;
+    color: white !important;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(48, 165, 101);
+
+}
+
+.brown {
+    height: 280px;
+    width: 100%;
+    background-color: rgb(48, 165, 101);
+}
+
+.h1 {
+    color: white !important;
+    position: absolute;
+    top: 30%;
+    right: 1%;
+    width: 100%;
+    text-align: center;
+    font-size: 3.7em !important;
+    font-family: Lucida Sans;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.p1 {
+    color: white;
+    position: absolute;
+    top: 43%;
+    right: 1%;
+    width: 100%;
+    text-align: center;
+    font-family: ff-tisa-web-pro, Georgia, serif;
+    font-size: 112.5%;
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+#small {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+}
+
+.nav-items {
+    color: white !important;
+}
+
+.submits {
+    color: white !important;
+}
+
+.intro {
+    background-color: white;
+}
+
+.card1 {
+    border: 2px solid rgb(48, 165, 101);
+    border-style: double;
+}
+
+.font {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+.welcome {
+    font-size: 2em;
+    color: rgb(48, 165, 101) !important;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.intro-image {
+    height: 390px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.clam {
+    font-style: normal !important;
+}
+
+.soup-img {
+    height: 120px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0;
+}
+
+.intro-image2 {
+    height: 420px;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.soup-img2 {
+    height: 150px;
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0;
+}
+
+.rate {
+    font-weight: 500;
+    font-style: normal;
+}
+
+.card3 {
+    border: 1.5px solid rgb(48, 165, 101);
+    border-style: dashed;
+}
+
+.hors {
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    color: rgb(48, 165, 101) !important;
+    border-bottom: 1px solid rgb(48, 165, 101);
+    font-size: 24px;
+}
+
+.weight {
+    font-weight: 600 !important;
+}
+
+.dish-img {
+    text-decoration: line-through;
+    height: 180px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0;
+}
+
+.third h5,
+p {
+    padding: 8px;
+}
+
+.about-section {
+    padding: 0;
+    border: 2px solid rgb(48, 165, 101);
+    border-style: double;
+}
+
+.about-img {
+    width: 500px;
+    height: 100%;
+    object-fit: fill
+}
+
+.about-text {
+    font-size: 19px;
+    word-spacing: 1px;
+    letter-spacing: 0.2px;
+}
+
+.about-text1 {
+    font-weight: 600;
+    color: rgb(48, 165, 101) !important;
+    font-style: none !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.wine-anime {
+    height: 100px;
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0;
+}
+
+.reserve {
+    background-color: rgb(51, 51, 51);
+    color: rgb(255, 254, 254);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.para1-res {
+    word-spacing: 1px;
+    letter-spacing: 0.2px;
+}
+
+.footer {
+    background-color: black;
+    color: rgb(143, 143, 143);
+
+}
+
+.last-img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
